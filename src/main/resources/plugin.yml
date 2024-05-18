@@ -1,0 +1,4 @@
+name: TheSurvival
+version: '${project.version}'
+main: de.palkuchen.cakecloud.thesurvival.TheSurvival
+api-version: '1.20'
